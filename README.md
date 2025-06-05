@@ -44,7 +44,7 @@ To design an interactive dashboard for business stakeholders using e-commerce sa
 ## 🛠 Tools Used
 
 - **Tool:** Tableau Public
-- **Dataset:** `ecommerce_sales_with_revenue.xslx`  
+- **Dataset:** `ecommerce_sales_with_revenue.xlsx`  
   (Derived from the original e-commerce sales analysis dataset)
 
 ---
