@@ -16,7 +16,7 @@ To design an interactive dashboard for business stakeholders using e-commerce sa
 | `Task_3_Dashboard_Design.twb`       | Tableau dashboard file                                    |
 | `Task_3_summary.pptx`               | PowerPoint summary of the dashboard                       |
 | `Task_3_screenshort.PNG`            | Screenshot of the Tableau dashboard                       |
-| `ecommerce_sales_with_revenue.csv` | Cleaned dataset with added revenue column                |
+| `ecommerce_sales_with_revenue.xlsx` | Cleaned dataset with added revenue column                |
 
 ---
 
@@ -44,7 +44,7 @@ To design an interactive dashboard for business stakeholders using e-commerce sa
 ## 🛠 Tools Used
 
 - **Tool:** Tableau Public
-- **Dataset:** `ecommerce_sales_with_revenue.csv`  
+- **Dataset:** `ecommerce_sales_with_revenue.xslx`  
   (Derived from the original e-commerce sales analysis dataset)
 
 ---
