@@ -49,3 +49,9 @@ To design an interactive dashboard for business stakeholders using e-commerce sa
 
 ---
 
+## 📊 Dashboard Link
+
+You can view the live Tableau dashboard here:  
+👉 [Task 3 Dashboard – Tableau Public](https://public.tableau.com/app/profile/bhavishya.priyadarshini.v/viz/Task_3_Dashboard_Design/Dashboard1?publish=yes)
+
+---
